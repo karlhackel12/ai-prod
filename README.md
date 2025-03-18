@@ -1,2 +1,0 @@
-# ai-prod
-Metagpt clone
